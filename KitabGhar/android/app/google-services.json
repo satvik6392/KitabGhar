@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286160223957",
+    "project_id": "book-store-cbc33",
+    "storage_bucket": "book-store-cbc33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286160223957:android:51d7396ce1d63d52d7ac5c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286160223957-q4pak06svtk8s2ii6767mllrhqul31ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5DZbCf22K3NHkcu1BaEtpmyacujciPkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286160223957-q4pak06svtk8s2ii6767mllrhqul31ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
